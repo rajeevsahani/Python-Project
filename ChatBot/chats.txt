@@ -1,0 +1,35 @@
+hi
+hello
+How are you?
+I am good.
+That is good to hear.
+Thank you.
+You are welcome.
+how are you?
+i'm fine
+how was your day?
+it was great. 
+how's yours?
+mine was great.
+did you watched the last movies that was released.
+no,which one.
+which is your favorite movie?
+there is a lot of movies that i like.
+choose one.
+maybe 3 idiots.
+that movie is good or not?
+i dont know.
+do you like math?
+yes i love math.
+what about you?
+no, i dont like.
+kya hal hai.
+sab sahi hai.
+padai kaisi chal rahi h.
+achchhi chal rahi h.
+list of branch
+CSE,ME,CE,EE
+best branch
+CSE
+aap ko python kaisi lagati h.
+sir mast langauge h.
